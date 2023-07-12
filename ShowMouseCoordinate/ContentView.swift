@@ -39,6 +39,6 @@ struct ContentView: View {
     }
 }
 
-#Preview {
-    ContentView().fixedSize()
-}
+//#Preview {
+//    ContentView().fixedSize()
+//}
